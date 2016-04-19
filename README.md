@@ -1,4 +1,4 @@
-# Spring 2016 Homework 2
+# SWE610 Ruby on Rails Homework 2
 
 ## Overall Spec
 
@@ -15,7 +15,7 @@ Fork the repository to your own!
 
 Run this command to clone this repository <b>after you fork:</b>
 ```
-git clone https://github.com/your_username/sp16-hw4
+git clone https://github.com/your_username/swe610hw022
 ```
 
 Afterwards, change directory into the folder and run
@@ -39,4 +39,4 @@ git add .
 git commit -am "I'M DONE"
 ```
 
-And submit the link to your repo through the rails decal website.
+And submit the link to your repo and add your repo git link to EMS along with brief 3-5 page paper on how you accomplished this homework assignment and steps used to accomplish this homework assignment.
